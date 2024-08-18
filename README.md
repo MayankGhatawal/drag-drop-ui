@@ -15,6 +15,7 @@ This project is a Drag and Drop UI application built with React.js, Shadcn, and 
 ## Technologies Used
 
 - **React.js**: For building the interactive UI components.
+
 - **Shadcn**: For advanced UI elements and styling.
 - **Tailwind CSS**: For utility-first CSS styling.
 
